@@ -32,7 +32,11 @@ export async function getServerSideProps () {
         {
           title: '拉勾教育',
           url: 'https://kaiwu.lagou.com'
-        }
+        },
+        {
+          title: '我的博客',
+          url: 'https://blog-xyf.vercel.app/'
+        },
       ]
     }
   }
